@@ -1,0 +1,97 @@
+.ddl {
+    color: #eaeaea;
+    background: rgba(13, 13, 13, 13);
+    font-size: 14px;
+    list-style: none;
+    height: 46px;
+    line-height: 46px;
+    -webkit-transform: skewX(-15deg);
+    -ms-transform: skewX(-15deg);
+    transform: skewX(-15deg);
+    padding: 0 18px 0 0;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    margin-bottom: 15px;
+    padding-left: 9px;
+}
+
+.ddl option {
+    background: rgba(13, 13, 13, 13);
+}
+
+
+.elementDissapear {
+    display: none;
+}
+
+#errors {
+    width: 100%;
+    font-size: 16px;
+    color: #c4c4c4;
+    -webkit-transform: skewX(-15deg);
+    -ms-transform: skewX(-15deg);
+    transform: skewX(-15deg);
+    background: transparent;
+    border: 1px solid #363636;
+    margin-bottom: 20px;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#success {
+    width: 100%;
+    font-size: 16px;
+    -webkit-transform: skewX(-15deg);
+    -ms-transform: skewX(-15deg);
+    transform: skewX(-15deg);
+    background: transparent;
+    border: 1px solid #363636;
+    margin-bottom: 20px;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.word-wrap {
+    word-wrap: break-word;
+}
+
+#error-toast {
+    position: fixed;
+    top: 50px;
+    right: 20px;
+    z-index: 10;
+    width: 25%;
+    font-size: 16px;
+    -webkit-transform: skewX(-15deg);
+    -ms-transform: skewX(-15deg);
+    transform: skewX(-15deg);
+    background: rgba(194, 0, 0, 0.5);
+    color: #ffffff;
+    border: 1px solid #363636;
+    margin-bottom: 20px;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#success-toast {
+    position: fixed;
+    top: 50px;
+    right: 20px;
+    z-index: 10;
+    width: 25%;
+    font-size: 16px;
+    -webkit-transform: skewX(-15deg);
+    -ms-transform: skewX(-15deg);
+    transform: skewX(-15deg);
+    background: rgba(50, 135, 54, 0.5);
+    color: #ffffff;
+    border: 1px solid #363636;
+    margin-bottom: 20px;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}

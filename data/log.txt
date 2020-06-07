@@ -1,0 +1,76 @@
+/amin/models/posts/create.php	Image is not in right format.	2020-05-17 20:49:42
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-17 21:51:06
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-17 21:51:25
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-17 21:51:43
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-17 21:52:46
+/amin/models/posts/create.php	Image is not in right format.	2020-05-18 21:57:18
+/amin/models/comments/get-all-by-post.php	No post information sent.	2020-05-18 23:05:39
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-23 20:50:55
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-23 20:52:29
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-23 20:56:08
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-23 21:00:07
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-23 21:01:26
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-23 21:02:37
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-23 21:06:22
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-23 21:07:31
+/amin/models/comments/get-all-by-post.php	No post information sent.	2020-05-24 19:49:38
+/amin/models/comments/patch-content.php	Content is required, must have more then 3 characters.	2020-05-24 19:54:21
+/amin/models/comments/patch-content.php	Content is required, must have more then 3 characters.	2020-05-24 19:54:44
+/amin/models/comments/create.php	Content is required.	2020-05-24 19:56:04
+/amin/models/comments/delete.php	There is no information about comment.	2020-05-24 20:02:21
+/amin/models/comments/delete.php	There is no information about comment.	2020-05-24 20:02:45
+/amin/models/comments/delete.php	There is no information about comment.	2020-05-24 20:03:37
+/amin/models/comments/delete.php	There is no information about comment.	2020-05-24 20:04:19
+/amin/models/comments/delete.php	There is no information about comment.	2020-05-24 20:05:20
+/amin/models/comments/like.php	SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'field list'	2020-05-24 21:31:14
+/amin/models/comments/like.php	SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '21-1' for key 'PRIMARY'	2020-05-24 21:32:02
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-26 20:56:21
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-26 20:56:33
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-26 20:56:34
+/amin/models/auth/login.php	Invalid username and password combination.	2020-05-26 21:00:01
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-03 20:13:47
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-03 20:16:25
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-03 20:49:34
+/amin/models/posts/create.php	Image size must not be greater then 3MB.	2020-06-03 21:57:55
+/amin/models/comments/get-all-by-post.php	No post information sent.	2020-06-04 21:37:20
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-04 22:40:21
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-04 22:40:24
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-04 22:40:32
+/amin/index.php	SQLSTATE[42S22]: Column not found: 1054 Unknown column 'undefined' in 'where clause'	2020-06-06 15:07:56
+/amin/index.php	SQLSTATE[42S22]: Column not found: 1054 Unknown column 'undefined' in 'where clause'	2020-06-06 15:22:24
+/amin/models/posts/patch-image.php	Image is required.	2020-06-06 16:00:17
+/amin/models/posts/patch-image.php	Image is not in right format.	2020-06-06 16:00:17
+/amin/models/posts/patch-image.php	Image is required.	2020-06-06 16:00:51
+/amin/models/posts/patch-image.php	Image is required.	2020-06-06 16:01:10
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':/xampp/htdocs/amin/assets/img/posts/35 and is_deleted = 0' at line 1	2020-06-06 16:01:55
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':/xampp/htdocs/amin/assets/img/posts/35 and is_deleted = 0' at line 1	2020-06-06 16:02:11
+/amin/index.php	SQLSTATE[42S22]: Column not found: 1054 Unknown column 'undefined' in 'where clause'	2020-06-06 16:46:28
+/amin/models/posts/patch-image.php	An error ocurred while moving an image.	2020-06-06 19:07:46
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-06 20:25:28
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-06 21:02:14
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-06 21:43:59
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-06 21:45:37
+/amin/models/auth/register.php	SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	2020-06-06 21:53:10
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-06 21:56:23
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-06 21:58:02
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:34:32
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:34:33
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:35:52
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:35:53
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:36:01
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:36:01
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:36:06
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:36:06
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:36:28
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:36:28
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:36:50
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:36:50
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:37:02
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:37:02
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:37:31
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:37:32
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:43:05
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:43:05
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:43:23
+/amin/index.php	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY c.id ORDER BY c.created_at DESC LIMIT 0, 4' at line 1	2020-06-07 17:43:24
+/amin/models/auth/login.php	Invalid username and password combination.	2020-06-07 17:56:29
